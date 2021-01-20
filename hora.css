@@ -33,7 +33,30 @@ div {
 
 footer { 
 
-    color: white;
+    color: rgb(247, 243, 243);
     text-align: center;
     font-style: italic;
+    width: auto;
+    line-height: 100% ;  
+
+    
+}
+
+.redes {
+
+    width: 100%;
+    text-align: center;
+}
+
+.redes img {
+    width: 2.75%;
+
+
+}
+
+.redes ul li {
+
+    list-style-type: none ;
+    display: inline;
+
 }
