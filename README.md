@@ -6,4 +6,4 @@
 
  Alteração dos nomes desses arquivos por hora.css , hora.html e hora.js as 20.24 
 
- Inseri rede sociais no HTML  e configurações de layout ( rodapé ) realizadas no CSS em 20.01  
+ Inseri rede sociais no rodapé do HTML  e configurei de layout dessa rodaoé  no CSS em 20.01  
